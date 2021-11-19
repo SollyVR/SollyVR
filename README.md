@@ -3,7 +3,7 @@
 - I’m currently still learning how to fully utilize Udon and various software to achieve this and hope you can be patient with me sucking.
 - Business inquiries can be sent to thesollyvr@gmail.com.
 - VRChat Worlds:
-- Awesomebox2: https://vrch.at/wrld_ac92d340-de71-4172-ae27-e7daa3036437
+- Awesomebox2: https://vrch.at/wrld_ce2a861d-4560-49a0-977d-9fa7d7daaf74
 
 <!---
 SollyVR/SollyVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
